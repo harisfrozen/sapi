@@ -1,3 +1,2 @@
 # sapi
-Sistem Administrasi Perpustakaan
-bossqu
+Sistem Administrasi Perpustakaan berbasis framework laravel
